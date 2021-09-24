@@ -1,2 +1,3 @@
-# Consulta-FH-cyber
-consulta, IP, CEO, CNPJ 
+painel de consulta para termux by? cyberPESTE
+
+IP, CEP, CNPJ

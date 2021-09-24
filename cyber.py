@@ -92,11 +92,11 @@ def ban():
                  ¶¤¤¤¶     and
                   ¤¶¤     @ravenax
                   ¤¶¤         and
-                  ¤¶¤            @leozin 
+                  ¤¶¤            @cirilo
                   ¶¶¶
-                  ¤¶¤
-        	  ¤¶¤   
-                  ¤¶¤
+                  ¤¶¤   ip   ex=xxx.xx.xxx.xxx com pontos
+        	  ¤¶¤   cep  ex=xxxxxxxx somente números
+                  ¤¶¤   cnpj ex=xxxxxxxxxxxxx somente número
                   ¤¶¤
                 ¤¶¶¤¶¶¤
                  ¤¶¤¶¤
@@ -139,10 +139,11 @@ def menu():
      |_|  \__,_| \_/ \___|_| |_|\__,_/_/\_\  {f} 		       
 	{am}	and and and and and and and and			 	       
 {vd}
-| | ___  ___ ___(_)_ __     __  __
-| |/ _ \/ _ \_  / | '_ \    \ \/ /
-| |  __/ (_) / /| | | | |   |>  < 
-|_|\___|\___/___|_|_| |_|   /_/\_\  {f}
+     _      _ _       
+  ___(_)_ __(_) | ___  
+ / __| | '__| | |/ _ \ 
+| (__| | |  | | | (_) |
+ \___|_|_|  |_|_|\___/  {f}
                      
    	 	       
 - {ng}01 CONSULTAR IP {f}
